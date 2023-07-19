@@ -2,8 +2,11 @@ import { buttonVariants } from '@/components/ui/Button'
 import { getAuthSession } from '@/lib/auth'
 import { HomeIcon } from 'lucide-react'
 import Link from 'next/link'
-import GeneralFeed from '@/components/GeneralFeed'
-import CustomFeed from '@/components/CustomFeed'
+import GeneralFeed from '@/components/homepage/GeneralFeed'
+import CustomFeed from '@/components/homepage/CustomFeed'
+
+export const dynamic = 'force-dynamic'
+export const fetchCache = 'force-no-store'
 
 export default async function Home() {
 	const session = await getAuthSession()

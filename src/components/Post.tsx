@@ -1,9 +1,12 @@
+'use client'
+
 import { Post, User, Vote } from '@prisma/client'
 import { FC, useRef } from 'react'
 import { formatTimeToNow } from '@/lib/utils'
 import { MessageSquare } from 'lucide-react'
 import EditorOutput from './EditorOutput'
 import PostVoteClient from './post-vote/PostVoteClient'
+import Link from 'next/link'
 
 type PartialVote = Pick<Vote, 'type'>
 
@@ -70,11 +73,11 @@ const Post: FC<PostProps> = ({
 			</div>
 
 			<div className='bg-gray-50 z-20 text-sm px-4 py-4 sm:px-6'>
-				<a
+				<Link
 					className='w-fit flex items-center gap-2'
 					href={`/r/${subredditName}/post/${post.id}`}>
 					<MessageSquare className='h-4 w-4' /> {commentAmt} comments
-				</a>
+				</Link>
 			</div>
 		</div>
 	)

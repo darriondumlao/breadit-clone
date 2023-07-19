@@ -1,0 +1,509 @@
+{
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/UserNameForm.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/UserNameForm.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/UserAccountNav.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/UserAccountNav.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/SearchBar.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/SearchBar.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/Providers.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/Providers.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/ui/Toaster.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/ui/Toaster.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/PostFeed.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/PostFeed.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/MiniCreatePost.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/MiniCreatePost.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/SubscribeLeaveToggle.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/SubscribeLeaveToggle.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/r/create/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/r/create/page.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/CreateComment.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/CreateComment.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/comments/PostComment.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/comments/PostComment.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/EditorOutput.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/EditorOutput.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/post-vote/PostVoteClient.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/post-vote/PostVoteClient.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/UserAuthForm.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/UserAuthForm.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/CloseModal.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/CloseModal.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/Editor.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/Editor.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    }
+  },
+  "edgeSSRModuleMapping": {},
+  "clientModules": {
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/esm/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/esm/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/esm/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/shared/lib/app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/submit/page:static/chunks/app/r/[slug]/submit/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/submit/page:static/chunks/app/r/[slug]/submit/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/shared/lib/hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/submit/page:static/chunks/app/r/[slug]/submit/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/submit/page:static/chunks/app/r/[slug]/submit/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/shared/lib/server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/submit/page:static/chunks/app/r/[slug]/submit/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/submit/page:static/chunks/app/r/[slug]/submit/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/submit/page:static/chunks/app/r/[slug]/submit/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/esm/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/submit/page:static/chunks/app/r/[slug]/submit/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/components/UserNameForm.tsx": {
+      "id": "(app-client)/./src/components/UserNameForm.tsx",
+      "name": "*",
+      "chunks": [
+        "app/settings/page:static/chunks/app/settings/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/@authModal/(.)sign-in/page:static/chunks/app/@authModal/(.)sign-in/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/dist/esm/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/@authModal/(.)sign-in/page:static/chunks/app/@authModal/(.)sign-in/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
+      "id": "(app-client)/./node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/components/UserAccountNav.tsx": {
+      "id": "(app-client)/./src/components/UserAccountNav.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/components/SearchBar.tsx": {
+      "id": "(app-client)/./src/components/SearchBar.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/components/Providers.tsx": {
+      "id": "(app-client)/./src/components/Providers.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/components/ui/Toaster.tsx": {
+      "id": "(app-client)/./src/components/ui/Toaster.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/styles/globals.css": {
+      "id": "(app-client)/./src/styles/globals.css",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/components/PostFeed.tsx": {
+      "id": "(app-client)/./src/components/PostFeed.tsx",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/page:static/chunks/app/r/[slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/components/MiniCreatePost.tsx": {
+      "id": "(app-client)/./src/components/MiniCreatePost.tsx",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/page:static/chunks/app/r/[slug]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/components/SubscribeLeaveToggle.tsx": {
+      "id": "(app-client)/./src/components/SubscribeLeaveToggle.tsx",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/layout:static/chunks/app/r/[slug]/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/app/r/create/page.tsx": {
+      "id": "(app-client)/./src/app/r/create/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/r/create/page:static/chunks/app/r/create/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/components/CreateComment.tsx": {
+      "id": "(app-client)/./src/components/CreateComment.tsx",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/post/[postId]/page:static/chunks/app/r/[slug]/post/[postId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/components/comments/PostComment.tsx": {
+      "id": "(app-client)/./src/components/comments/PostComment.tsx",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/post/[postId]/page:static/chunks/app/r/[slug]/post/[postId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/components/EditorOutput.tsx": {
+      "id": "(app-client)/./src/components/EditorOutput.tsx",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/post/[postId]/page:static/chunks/app/r/[slug]/post/[postId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/components/post-vote/PostVoteClient.tsx": {
+      "id": "(app-client)/./src/components/post-vote/PostVoteClient.tsx",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/post/[postId]/page:static/chunks/app/r/[slug]/post/[postId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/components/UserAuthForm.tsx": {
+      "id": "(app-client)/./src/components/UserAuthForm.tsx",
+      "name": "*",
+      "chunks": [
+        "app/@authModal/(.)sign-in/page:static/chunks/app/@authModal/(.)sign-in/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/components/CloseModal.tsx": {
+      "id": "(app-client)/./src/components/CloseModal.tsx",
+      "name": "*",
+      "chunks": [
+        "app/@authModal/(.)sign-in/page:static/chunks/app/@authModal/(.)sign-in/page.js"
+      ],
+      "async": false
+    },
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/components/Editor.tsx": {
+      "id": "(app-client)/./src/components/Editor.tsx",
+      "name": "*",
+      "chunks": [
+        "app/r/[slug]/submit/page:static/chunks/app/r/[slug]/submit/page.js"
+      ],
+      "async": false
+    }
+  },
+  "entryCSSFiles": {
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/app/settings/page": [],
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/app/@authModal/default": [],
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/app/layout": [
+      "static/css/app/layout.css"
+    ],
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/app/page": [],
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/app/r/[slug]/page": [],
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/app/r/[slug]/layout": [],
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/app/r/create/page": [],
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/app/r/[slug]/post/[postId]/page": [],
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/app/@authModal/(.)sign-in/page": [],
+    "/Users/darrion/Code/deploy-prac/breadit-clone/breadit/src/app/r/[slug]/submit/page": []
+  }
+}

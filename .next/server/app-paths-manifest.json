@@ -1,0 +1,9 @@
+{
+  "/page": "app/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/api/posts/route": "app/api/posts/route.js",
+  "/r/[slug]/page": "app/r/[slug]/page.js",
+  "/api/subreddit/post/comment/route": "app/api/subreddit/post/comment/route.js",
+  "/r/[slug]/submit/page": "app/r/[slug]/submit/page.js",
+  "/r/[slug]/post/[postId]/page": "app/r/[slug]/post/[postId]/page.js"
+}
